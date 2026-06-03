@@ -1,0 +1,3259 @@
+{
+  "player_map": {
+    "viktor gyökeres|arsenal": {
+      "id": 804508
+    },
+    "bukayo saka|arsenal": {
+      "id": 934235
+    },
+    "gabriel jesus|arsenal": {
+      "id": 794839
+    },
+    "gabriel martinelli|arsenal": {
+      "id": 922573
+    },
+    "kai havertz|arsenal": {
+      "id": 836705
+    },
+    "noni madueke|arsenal": {
+      "id": 966547
+    },
+    "leandro trossard|arsenal": {
+      "id": 135666
+    },
+    "martin ødegaard|arsenal": {
+      "id": 547410
+    },
+    "declan rice|arsenal": {
+      "id": 856714
+    },
+    "eberechi eze|arsenal": {
+      "id": 864921
+    },
+    "mikel merino|arsenal": {
+      "id": 592010
+    },
+    "max dowman|arsenal": {
+      "id": 1917626
+    },
+    "martín zubimendi|arsenal": {
+      "id": 966837
+    },
+    "christian nørgaard|arsenal": {
+      "id": 135256
+    },
+    "gabriel magalhães|arsenal": {
+      "id": 869792
+    },
+    "william saliba|arsenal": {
+      "id": 941168
+    },
+    "piero hincapié|arsenal": {
+      "id": 1002837
+    },
+    "jurriën timber|arsenal": {
+      "id": 958959
+    },
+    "riccardo calafiori|arsenal": {
+      "id": 957602
+    },
+    "cristhian mosquera|arsenal": {
+      "id": 1144630
+    },
+    "myles lewis-skelly|arsenal": {
+      "id": 1423711
+    },
+    "ben white|arsenal": {
+      "id": 846036
+    },
+    "david raya|arsenal": {
+      "id": 581310
+    },
+    "kepa arrizabalaga|arsenal": {
+      "id": 232422
+    },
+    "erling haaland|manchester city": {
+      "id": 839956
+    },
+    "omar marmoush|manchester city": {
+      "id": 873554
+    },
+    "phil foden|manchester city": {
+      "id": 859765
+    },
+    "antoine semenyo|manchester city": {
+      "id": 934354
+    },
+    "rayan cherki|manchester city": {
+      "id": 979128
+    },
+    "rodri|manchester city": {
+      "id": 827606
+    },
+    "jérémy doku|manchester city": {
+      "id": 934386
+    },
+    "bernardo silva|manchester city": {
+      "id": 331209
+    },
+    "savinho|manchester city": {
+      "id": 1046795
+    },
+    "tijjani reijnders|manchester city": {
+      "id": 893549
+    },
+    "mateo kovačić|manchester city": {
+      "id": 136710
+    },
+    "nico gonzález|manchester city": {
+      "id": 954056
+    },
+    "sverre nypan|manchester city": {
+      "id": 1146511
+    },
+    "abdukodir khusanov|manchester city": {
+      "id": 1194333
+    },
+    "joško gvardiol|manchester city": {
+      "id": 964994
+    },
+    "rayan aït-nouri|manchester city": {
+      "id": 931278
+    },
+    "rúben dias|manchester city": {
+      "id": 318941
+    },
+    "nico o'reilly|manchester city": {
+      "id": 1142703
+    },
+    "marc guéhi|manchester city": {
+      "id": 877994
+    },
+    "john stones|manchester city": {
+      "id": 152077
+    },
+    "nathan aké|manchester city": {
+      "id": 149663
+    },
+    "matheus nunes|manchester city": {
+      "id": 945122
+    },
+    "rico lewis|manchester city": {
+      "id": 1136731
+    },
+    "max alleyne|manchester city": {
+      "id": 1168513
+    },
+    "gianluigi donnarumma|manchester city": {
+      "id": 824509
+    },
+    "james trafford|manchester city": {
+      "id": 980643
+    },
+    "marcus bettinelli|manchester city": {
+      "id": 257993
+    },
+    "bryan mbeumo|manchester united": {
+      "id": 927083
+    },
+    "benjamin šeško|manchester united": {
+      "id": 986397
+    },
+    "matheus cunha|manchester united": {
+      "id": 886363
+    },
+    "mason mount|manchester united": {
+      "id": 836694
+    },
+    "joshua zirkzee|manchester united": {
+      "id": 917007
+    },
+    "chido obi-martin|manchester united": {
+      "id": 1566204
+    },
+    "ethan wheatley|manchester united": {
+      "id": 1426625
+    },
+    "bruno fernandes|manchester united": {
+      "id": 288205
+    },
+    "amad diallo|manchester united": {
+      "id": 971037
+    },
+    "casemiro|manchester united": {
+      "id": 122951
+    },
+    "kobbie mainoo|manchester united": {
+      "id": 1142175
+    },
+    "patrick dorgu|manchester united": {
+      "id": 1397168
+    },
+    "manuel ugarte|manchester united": {
+      "id": 846425
+    },
+    "tyler fletcher|manchester united": {
+      "id": 1402850
+    },
+    "noussair mazraoui|manchester united": {
+      "id": 847030
+    },
+    "lisandro martínez|manchester united": {
+      "id": 859999
+    },
+    "matthijs de ligt|manchester united": {
+      "id": 803031
+    },
+    "harry maguire|manchester united": {
+      "id": 149380
+    },
+    "diogo dalot|manchester united": {
+      "id": 843200
+    },
+    "leny yoro|manchester united": {
+      "id": 1153315
+    },
+    "luke shaw|manchester united": {
+      "id": 190839
+    },
+    "ayden heaven|manchester united": {
+      "id": 1445799
+    },
+    "tyrell malacia|manchester united": {
+      "id": 825839
+    },
+    "senne lammens|manchester united": {
+      "id": 964753
+    },
+    "altay bayındır|manchester united": {
+      "id": 815890
+    },
+    "tom heaton|manchester united": {
+      "id": 18122
+    },
+    "ollie watkins|aston villa": {
+      "id": 555386
+    },
+    "tammy abraham|aston villa": {
+      "id": 610766
+    },
+    "lewis dobbin|aston villa": {
+      "id": 998832
+    },
+    "jadon sancho|aston villa": {
+      "id": 851100
+    },
+    "harvey elliott|aston villa": {
+      "id": 955245
+    },
+    "morgan rogers|aston villa": {
+      "id": 948261
+    },
+    "douglas luiz|aston villa": {
+      "id": 867887
+    },
+    "emiliano buendía|aston villa": {
+      "id": 783126
+    },
+    "youri tielemans|aston villa": {
+      "id": 331737
+    },
+    "amadou onana|aston villa": {
+      "id": 923973
+    },
+    "leon bailey|aston villa": {
+      "id": 808590
+    },
+    "john mcginn|aston villa": {
+      "id": 250223
+    },
+    "boubacar kamara|aston villa": {
+      "id": 826204
+    },
+    "ross barkley|aston villa": {
+      "id": 98435
+    },
+    "alysson|aston villa": {
+      "id": 1631879
+    },
+    "lamare bogarde|aston villa": {
+      "id": 1089388
+    },
+    "bradley burrowes|aston villa": {
+      "id": 1899712
+    },
+    "matty cash|aston villa": {
+      "id": 833956
+    },
+    "victor lindelöf|aston villa": {
+      "id": 143334
+    },
+    "ian maatsen|aston villa": {
+      "id": 976263
+    },
+    "lucas digne|aston villa": {
+      "id": 96538
+    },
+    "pau torres|aston villa": {
+      "id": 864169
+    },
+    "ezri konsa|aston villa": {
+      "id": 827679
+    },
+    "tyrone mings|aston villa": {
+      "id": 303638
+    },
+    "andrés garcía|aston villa": {
+      "id": 1457536
+    },
+    "emiliano martínez|aston villa": {
+      "id": 158263
+    },
+    "marco bizot|aston villa": {
+      "id": 100390
+    },
+    "james wright|aston villa": {
+      "id": 1138445
+    },
+    "alexander isak|liverpool fc": {
+      "id": 823941
+    },
+    "hugo ekitiké|liverpool fc": {
+      "id": 1048422
+    },
+    "federico chiesa|liverpool fc": {
+      "id": 845386
+    },
+    "rio ngumoha|liverpool fc": {
+      "id": 1881902
+    },
+    "will wright|liverpool fc": {
+      "id": 1984100
+    },
+    "mohamed salah|liverpool fc": {
+      "id": 159665
+    },
+    "florian wirtz|liverpool fc": {
+      "id": 1019322
+    },
+    "dominik szoboszlai|liverpool fc": {
+      "id": 869856
+    },
+    "alexis mac allister|liverpool fc": {
+      "id": 895324
+    },
+    "cody gakpo|liverpool fc": {
+      "id": 862967
+    },
+    "ryan gravenberch|liverpool fc": {
+      "id": 904897
+    },
+    "wataru endo|liverpool fc": {
+      "id": 143040
+    },
+    "curtis jones|liverpool fc": {
+      "id": 927353
+    },
+    "stefan bajčetić|liverpool fc": {
+      "id": 1142636
+    },
+    "trey nyoni|liverpool fc": {
+      "id": 1445945
+    },
+    "james mcconnell|liverpool fc": {
+      "id": 1138428
+    },
+    "virgil van dijk|liverpool fc": {
+      "id": 151545
+    },
+    "jeremie frimpong|liverpool fc": {
+      "id": 970361
+    },
+    "ibrahima konaté|liverpool fc": {
+      "id": 826215
+    },
+    "miloš kerkez|liverpool fc": {
+      "id": 1097425
+    },
+    "andy robertson|liverpool fc": {
+      "id": 262911
+    },
+    "conor bradley|liverpool fc": {
+      "id": 1008402
+    },
+    "giovanni leoni|liverpool fc": {
+      "id": 1473137
+    },
+    "joe gomez|liverpool fc": {
+      "id": 318927
+    },
+    "rhys williams|liverpool fc": {
+      "id": 902091
+    },
+    "calvin ramsay|liverpool fc": {
+      "id": 991227
+    },
+    "mor talla ndiaye|liverpool fc": {
+      "id": 2169894
+    },
+    "owen beck|liverpool fc": {
+      "id": 979114
+    },
+    "alisson|liverpool fc": {
+      "id": 243609
+    },
+    "giorgi mamardashvili|liverpool fc": {
+      "id": 930997
+    },
+    "freddie woodman|liverpool fc": {
+      "id": 284417
+    },
+    "harvey davies|liverpool fc": {
+      "id": 1008403
+    },
+    "kornel misciur|liverpool fc": {
+      "id": 1899685
+    },
+    "amine adli|bournemouth": {
+      "id": 991478
+    },
+    "eli junior kroupi|bournemouth": {
+      "id": 1426228
+    },
+    "evanilson|bournemouth": {
+      "id": 998490
+    },
+    "enes ünal|bournemouth": {
+      "id": 336655
+    },
+    "rayan|bournemouth": {
+      "id": 1464966
+    },
+    "justin kluivert|bournemouth": {
+      "id": 851596
+    },
+    "ben gannon-doak|bournemouth": {
+      "id": 1154861
+    },
+    "alex tóth|bournemouth": {
+      "id": 1476524
+    },
+    "alex scott|bournemouth": {
+      "id": 1104986
+    },
+    "tyler adams|bournemouth": {
+      "id": 800419
+    },
+    "marcus tavernier|bournemouth": {
+      "id": 895576
+    },
+    "david brooks|bournemouth": {
+      "id": 855731
+    },
+    "ryan christie|bournemouth": {
+      "id": 322391
+    },
+    "lewis cook|bournemouth": {
+      "id": 548188
+    },
+    "marcos senesi|bournemouth": {
+      "id": 830659
+    },
+    "julio soler|bournemouth": {
+      "id": 1201520
+    },
+    "álex jiménez|bournemouth": {
+      "id": 1184308
+    },
+    "veljko milosavljević|bournemouth": {
+      "id": 1406130
+    },
+    "bafodé diakité|bournemouth": {
+      "id": 962408
+    },
+    "adrien truffert|bournemouth": {
+      "id": 999028
+    },
+    "james hill|bournemouth": {
+      "id": 1156586
+    },
+    "adam smith|bournemouth": {
+      "id": 44566
+    },
+    "matai akinmboni|bournemouth": {
+      "id": 1190712
+    },
+    "đorđe petrović|bournemouth": {
+      "id": 882604
+    },
+    "christos mandas|bournemouth": {
+      "id": 913762
+    },
+    "fraser forster|bournemouth": {
+      "id": 19314
+    },
+    "bertrand traoré|sunderland": {
+      "id": 218160
+    },
+    "wilson isidor|sunderland": {
+      "id": 877980
+    },
+    "brian brobbey|sunderland": {
+      "id": 910048
+    },
+    "eliezer mayenda|sunderland": {
+      "id": 1168588
+    },
+    "romaine mundle|sunderland": {
+      "id": 1094440
+    },
+    "ahmed abdullahi|sunderland": {
+      "id": 1442017
+    },
+    "finn geragusyan|sunderland": {
+      "id": 1899473
+    },
+    "noah sadiki|sunderland": {
+      "id": 1171539
+    },
+    "granit xhaka|sunderland": {
+      "id": 117777
+    },
+    "chemsdine talbi|sunderland": {
+      "id": 1142675
+    },
+    "habib diarra|sunderland": {
+      "id": 1128532
+    },
+    "nilson angulo|sunderland": {
+      "id": 1116571
+    },
+    "enzo le fée|sunderland": {
+      "id": 984014
+    },
+    "chris rigg|sunderland": {
+      "id": 1394089
+    },
+    "jocelin ta bi|sunderland": {
+      "id": 2138729
+    },
+    "milan aleksić|sunderland": {
+      "id": 1409347
+    },
+    "abdoullah ba|sunderland": {
+      "id": 1000139
+    },
+    "harrison jones|sunderland": {
+      "id": 1186076
+    },
+    "jaydon jones|sunderland": {
+      "id": 1891914
+    },
+    "reinildo mandava|sunderland": {
+      "id": 831424
+    },
+    "nordi mukiele|sunderland": {
+      "id": 780014
+    },
+    "omar alderete|sunderland": {
+      "id": 805137
+    },
+    "daniel ballard|sunderland": {
+      "id": 958878
+    },
+    "lutsharel geertruida|sunderland": {
+      "id": 856739
+    },
+    "trai hume|sunderland": {
+      "id": 989034
+    },
+    "dennis cirkin|sunderland": {
+      "id": 1014987
+    },
+    "luke o'nien|sunderland": {
+      "id": 365812
+    },
+    "jenson jones|sunderland": {
+      "id": 1185668
+    },
+    "oliver bainbridge|sunderland": {
+      "id": 2613317
+    },
+    "robin roefs|sunderland": {
+      "id": 1012928
+    },
+    "melker ellborg|sunderland": {
+      "id": 1099795
+    },
+    "simon moore|sunderland": {
+      "id": 95461
+    },
+    "danny welbeck|brighton & hove albion": {
+      "id": 33902
+    },
+    "charalampos kostoulas|brighton & hove albion": {
+      "id": 1416535
+    },
+    "stefanos tzimas|brighton & hove albion": {
+      "id": 1155321
+    },
+    "carlos baleba|brighton & hove albion": {
+      "id": 1199043
+    },
+    "kaoru mitoma|brighton & hove albion": {
+      "id": 936849
+    },
+    "diego gómez|brighton & hove albion": {
+      "id": 1065588
+    },
+    "yankuba minteh|brighton & hove albion": {
+      "id": 1400106
+    },
+    "matt o'riley|brighton & hove albion": {
+      "id": 891829
+    },
+    "pascal groß|brighton & hove albion": {
+      "id": 48480
+    },
+    "georginio rutter|brighton & hove albion": {
+      "id": 946695
+    },
+    "james milner|brighton & hove albion": {
+      "id": 791
+    },
+    "ibrahim osman|brighton & hove albion": {
+      "id": 1471095
+    },
+    "yasin ayari|brighton & hove albion": {
+      "id": 1036269
+    },
+    "jack hinshelwood|brighton & hove albion": {
+      "id": 1142315
+    },
+    "malick yalcouyé|brighton & hove albion": {
+      "id": 1568186
+    },
+    "solly march|brighton & hove albion": {
+      "id": 301288
+    },
+    "amario cozier-duberry|brighton & hove albion": {
+      "id": 1138842
+    },
+    "tom watson|brighton & hove albion": {
+      "id": 1167066
+    },
+    "ferdi kadıoğlu|brighton & hove albion": {
+      "id": 825844
+    },
+    "maxim de cuyper|brighton & hove albion": {
+      "id": 997152
+    },
+    "jan paul van hecke|brighton & hove albion": {
+      "id": 962012
+    },
+    "mats wieffer|brighton & hove albion": {
+      "id": 959628
+    },
+    "lewis dunk|brighton & hove albion": {
+      "id": 115365
+    },
+    "igor júlio|brighton & hove albion": {
+      "id": 842513
+    },
+    "joël veltman|brighton & hove albion": {
+      "id": 219572
+    },
+    "olivier boscagli|brighton & hove albion": {
+      "id": 788784
+    },
+    "adam webster|brighton & hove albion": {
+      "id": 216308
+    },
+    "eiran cashin|brighton & hove albion": {
+      "id": 998928
+    },
+    "bart verbruggen|brighton & hove albion": {
+      "id": 994363
+    },
+    "jason steele|brighton & hove albion": {
+      "id": 31867
+    },
+    "james beadle|brighton & hove albion": {
+      "id": 1148507
+    },
+    "tom mcgill|brighton & hove albion": {
+      "id": 1007073
+    },
+    "carl rushworth|brighton & hove albion": {
+      "id": 1005800
+    },
+    "igor thiago|brentford": {
+      "id": 1016907
+    },
+    "fabio carvalho|brentford": {
+      "id": 991604
+    },
+    "kaye furo|brentford": {
+      "id": 1403098
+    },
+    "romelle donovan|brentford": {
+      "id": 1586020
+    },
+    "dango ouattara|brentford": {
+      "id": 1106451
+    },
+    "jordan henderson|brentford": {
+      "id": 42694
+    },
+    "frank onyeka|brentford": {
+      "id": 885864
+    },
+    "reiss nelson|brentford": {
+      "id": 826139
+    },
+    "mikkel damsgaard|brentford": {
+      "id": 907072
+    },
+    "kevin schade|brentford": {
+      "id": 1006387
+    },
+    "yehor yarmoliuk|brentford": {
+      "id": 1031258
+    },
+    "antoni milambo|brentford": {
+      "id": 1126692
+    },
+    "mathias jensen|brentford": {
+      "id": 799251
+    },
+    "vitaly janelt|brentford": {
+      "id": 814873
+    },
+    "yunus konak|brentford": {
+      "id": 1518589
+    },
+    "josh dasilva|brentford": {
+      "id": 856260
+    },
+    "ryan trevitt|brentford": {
+      "id": 1177007
+    },
+    "michael kayode|brentford": {
+      "id": 1137431
+    },
+    "sepp van den berg|brentford": {
+      "id": 924378
+    },
+    "nathan collins|brentford": {
+      "id": 958916
+    },
+    "ethan pinnock|brentford": {
+      "id": 855864
+    },
+    "kristoffer ajer|brentford": {
+      "id": 576384
+    },
+    "keane lewis-potter|brentford": {
+      "id": 972421
+    },
+    "aaron hickey|brentford": {
+      "id": 966869
+    },
+    "rico henry|brentford": {
+      "id": 599128
+    },
+    "jayden meghoma|brentford": {
+      "id": 1410201
+    },
+    "caoimhin kelleher|brentford": {
+      "id": 827362
+    },
+    "hákon rafn valdimarsson|brentford": {
+      "id": 1005959
+    },
+    "matthew cox|brentford": {
+      "id": 1065525
+    },
+    "julian eyestone|brentford": {
+      "id": 1411132
+    },
+    "ellery balcombe|brentford": {
+      "id": 860205
+    },
+    "alejandro garnacho|chelsea": {
+      "id": 1135873
+    },
+    "joão pedro|chelsea": {
+      "id": 975079
+    },
+    "marc guiu|chelsea": {
+      "id": 1414933
+    },
+    "liam delap|chelsea": {
+      "id": 997087
+    },
+    "cole palmer|chelsea": {
+      "id": 982780
+    },
+    "estêvão|chelsea": {
+      "id": 1597265
+    },
+    "enzo fernández|chelsea": {
+      "id": 974505
+    },
+    "moisés caicedo|chelsea": {
+      "id": 987650
+    },
+    "mykhailo mudryk|chelsea": {
+      "id": 958966
+    },
+    "pedro neto|chelsea": {
+      "id": 879349
+    },
+    "andrey santos|chelsea": {
+      "id": 1105779
+    },
+    "jamie gittens|chelsea": {
+      "id": 1140599
+    },
+    "roméo lavia|chelsea": {
+      "id": 1069488
+    },
+    "dário essugo|chelsea": {
+      "id": 1110006
+    },
+    "reece james|chelsea": {
+      "id": 885908
+    },
+    "marc cucurella|chelsea": {
+      "id": 794939
+    },
+    "mamadou sarr|chelsea": {
+      "id": 1154657
+    },
+    "malo gusto|chelsea": {
+      "id": 996958
+    },
+    "levi colwill|chelsea": {
+      "id": 996911
+    },
+    "jorrel hato|chelsea": {
+      "id": 1153079
+    },
+    "wesley fofana|chelsea": {
+      "id": 923894
+    },
+    "trevoh chalobah|chelsea": {
+      "id": 826134
+    },
+    "josh acheampong|chelsea": {
+      "id": 1403050
+    },
+    "tosin adarabioyo|chelsea": {
+      "id": 352668
+    },
+    "benoît badiashile|chelsea": {
+      "id": 904827
+    },
+    "caleb wiley|chelsea": {
+      "id": 1035645
+    },
+    "robert sánchez|chelsea": {
+      "id": 920546
+    },
+    "filip jørgensen|chelsea": {
+      "id": 962053
+    },
+    "gabriel słonina|chelsea": {
+      "id": 978787
+    },
+    "teddy sharman-lowe|chelsea": {
+      "id": 1009762
+    },
+    "james hillson|chelsea": {
+      "id": 993436
+    },
+    "samuel chukwueze|fulham": {
+      "id": 822470
+    },
+    "raúl jiménez|fulham": {
+      "id": 192442
+    },
+    "rodrigo muniz|fulham": {
+      "id": 1015256
+    },
+    "jonah kusi-asare|fulham": {
+      "id": 1503757
+    },
+    "oscar bobb|fulham": {
+      "id": 1065216
+    },
+    "alex iwobi|fulham": {
+      "id": 352770
+    },
+    "emile smith rowe|fulham": {
+      "id": 867445
+    },
+    "kevin|fulham": {
+      "id": 1112879
+    },
+    "harry wilson|fulham": {
+      "id": 355528
+    },
+    "sander berge|fulham": {
+      "id": 793167
+    },
+    "saša lukić|fulham": {
+      "id": 371222
+    },
+    "joshua king|fulham": {
+      "id": 1546231
+    },
+    "tom cairney|fulham": {
+      "id": 82566
+    },
+    "harrison reed|fulham": {
+      "id": 365802
+    },
+    "luke harris|fulham": {
+      "id": 1134729
+    },
+    "calvin bassey|fulham": {
+      "id": 861972
+    },
+    "issa diop|fulham": {
+      "id": 825719
+    },
+    "antonee robinson|fulham": {
+      "id": 803174
+    },
+    "joachim andersen|fulham": {
+      "id": 362682
+    },
+    "timothy castagne|fulham": {
+      "id": 329417
+    },
+    "ryan sessegnon|fulham": {
+      "id": 836698
+    },
+    "kenny tete|fulham": {
+      "id": 190877
+    },
+    "jorge cuenca|fulham": {
+      "id": 868715
+    },
+    "bernd leno|fulham": {
+      "id": 103335
+    },
+    "benjamin lecomte|fulham": {
+      "id": 123207
+    },
+    "yoane wissa|newcastle united": {
+      "id": 805123
+    },
+    "nick woltemade|newcastle united": {
+      "id": 980623
+    },
+    "anthony gordon|newcastle united": {
+      "id": 914902
+    },
+    "anthony elanga|newcastle united": {
+      "id": 979232
+    },
+    "william osula|newcastle united": {
+      "id": 1122603
+    },
+    "harvey barnes|newcastle united": {
+      "id": 855647
+    },
+    "jacob murphy|newcastle united": {
+      "id": 372336
+    },
+    "sean neave|newcastle united": {
+      "id": 1511675
+    },
+    "bruno guimarães|newcastle united": {
+      "id": 866469
+    },
+    "sandro tonali|newcastle united": {
+      "id": 892673
+    },
+    "joelinton|newcastle united": {
+      "id": 560128
+    },
+    "lewis miley|newcastle united": {
+      "id": 1400650
+    },
+    "jacob ramsey|newcastle united": {
+      "id": 975937
+    },
+    "joe willock|newcastle united": {
+      "id": 888550
+    },
+    "joe white|newcastle united": {
+      "id": 994550
+    },
+    "kieran trippier|newcastle united": {
+      "id": 69256
+    },
+    "malick thiaw|newcastle united": {
+      "id": 1014286
+    },
+    "tino livramento|newcastle united": {
+      "id": 980634
+    },
+    "lewis hall|newcastle united": {
+      "id": 1136730
+    },
+    "dan burn|newcastle united": {
+      "id": 99090
+    },
+    "sven botman|newcastle united": {
+      "id": 910046
+    },
+    "fabian schär|newcastle united": {
+      "id": 101882
+    },
+    "emil krafth|newcastle united": {
+      "id": 150396
+    },
+    "alex murphy|newcastle united": {
+      "id": 1125214
+    },
+    "matt targett|newcastle united": {
+      "id": 368134
+    },
+    "harrison ashby|newcastle united": {
+      "id": 1084284
+    },
+    "aaron ramsdale|newcastle united": {
+      "id": 839410
+    },
+    "nick pope|newcastle united": {
+      "id": 162653
+    },
+    "john ruddy|newcastle united": {
+      "id": 1131
+    },
+    "mark gillespie|newcastle united": {
+      "id": 108508
+    },
+    "tyrique george|everton": {
+      "id": 1403061
+    },
+    "thierno barry|everton": {
+      "id": 1395746
+    },
+    "beto|everton": {
+      "id": 987489
+    },
+    "iliman ndiaye|everton": {
+      "id": 914309
+    },
+    "jack grealish|everton": {
+      "id": 189061
+    },
+    "idrissa gana gueye|everton": {
+      "id": 106337
+    },
+    "kiernan dewsbury-hall|everton": {
+      "id": 861970
+    },
+    "carlos alcaraz|everton": {
+      "id": 1017392
+    },
+    "james garner|everton": {
+      "id": 927361
+    },
+    "tyler dibling|everton": {
+      "id": 1174472
+    },
+    "dwight mcneil|everton": {
+      "id": 935543
+    },
+    "merlin röhl|everton": {
+      "id": 1064082
+    },
+    "tim iroegbunam|everton": {
+      "id": 1085950
+    },
+    "harrison armstrong|everton": {
+      "id": 1627560
+    },
+    "adam aznou|everton": {
+      "id": 1466124
+    },
+    "vitaliy mykolenko|everton": {
+      "id": 876643
+    },
+    "jarrad branthwaite|everton": {
+      "id": 979563
+    },
+    "james tarkowski|everton": {
+      "id": 145188
+    },
+    "jake o'brien|everton": {
+      "id": 998253
+    },
+    "michael keane|everton": {
+      "id": 110846
+    },
+    "séamus coleman|everton": {
+      "id": 76632
+    },
+    "nathan patterson|everton": {
+      "id": 1020141
+    },
+    "reece welch|everton": {
+      "id": 1101370
+    },
+    "elijah campbell|everton": {
+      "id": 1144949
+    },
+    "jordan pickford|everton": {
+      "id": 138530
+    },
+    "mark travers|everton": {
+      "id": 856720
+    },
+    "tom king|everton": {
+      "id": 603922
+    },
+    "noah okafor|leeds united": {
+      "id": 865523
+    },
+    "dominic calvert-lewin|leeds united": {
+      "id": 372344
+    },
+    "wilfried gnonto|leeds united": {
+      "id": 998951
+    },
+    "lukas nmecha|leeds united": {
+      "id": 803185
+    },
+    "joël piroe|leeds united": {
+      "id": 850823
+    },
+    "facundo buonanotte|leeds united": {
+      "id": 1117025
+    },
+    "ao tanaka|leeds united": {
+      "id": 871886
+    },
+    "daniel james|leeds united": {
+      "id": 828639
+    },
+    "ethan ampadu|leeds united": {
+      "id": 847097
+    },
+    "ilia gruev|leeds united": {
+      "id": 911679
+    },
+    "brenden aaronson|leeds united": {
+      "id": 973431
+    },
+    "anton stach|leeds united": {
+      "id": 889861
+    },
+    "sean longstaff|leeds united": {
+      "id": 866191
+    },
+    "charlie crew|leeds united": {
+      "id": 1158066
+    },
+    "rhys chadwick-chaplin|leeds united": {
+      "id": 1808314
+    },
+    "jaka bijol|leeds united": {
+      "id": 886930
+    },
+    "pascal struijk|leeds united": {
+      "id": 836675
+    },
+    "james justin|leeds united": {
+      "id": 827681
+    },
+    "gabriel gudmundsson|leeds united": {
+      "id": 834308
+    },
+    "joe rodon|leeds united": {
+      "id": 828640
+    },
+    "jayden bogle|leeds united": {
+      "id": 929132
+    },
+    "sebastiaan bornauw|leeds united": {
+      "id": 826167
+    },
+    "sam byram|leeds united": {
+      "id": 254713
+    },
+    "jayden lienou|leeds united": {
+      "id": 1899485
+    },
+    "alfie cresswell|leeds united": {
+      "id": 1809530
+    },
+    "lucas perri|leeds united": {
+      "id": 871290
+    },
+    "illan meslier|leeds united": {
+      "id": 906076
+    },
+    "karl darlow|leeds united": {
+      "id": 123689
+    },
+    "alex cairns|leeds united": {
+      "id": 162417
+    },
+    "ismaïla sarr|crystal palace": {
+      "id": 845286
+    },
+    "jean philippe mateta|crystal palace": {
+      "id": 848276
+    },
+    "brennan johnson|crystal palace": {
+      "id": 1085180
+    },
+    "jørgen strand larsen|crystal palace": {
+      "id": 876599
+    },
+    "yéremy pino|crystal palace": {
+      "id": 984624
+    },
+    "eddie nketiah|crystal palace": {
+      "id": 858194
+    },
+    "evann guessand|crystal palace": {
+      "id": 930245
+    },
+    "christantus uche|crystal palace": {
+      "id": 1884145
+    },
+    "daniel muñoz|crystal palace": {
+      "id": 870360
+    },
+    "daichi kamada|crystal palace": {
+      "id": 794338
+    },
+    "adam wharton|crystal palace": {
+      "id": 1109771
+    },
+    "jefferson lerma|crystal palace": {
+      "id": 355796
+    },
+    "borna sosa|crystal palace": {
+      "id": 357584
+    },
+    "cheick doucouré|crystal palace": {
+      "id": 906047
+    },
+    "tyrick mitchell|crystal palace": {
+      "id": 988275
+    },
+    "jesurun rak-sakyi|crystal palace": {
+      "id": 1101362
+    },
+    "romain esse|crystal palace": {
+      "id": 1438837
+    },
+    "will hughes|crystal palace": {
+      "id": 193554
+    },
+    "justin devenny|crystal palace": {
+      "id": 1084311
+    },
+    "david ozoh|crystal palace": {
+      "id": 1212155
+    },
+    "kaden rodney|crystal palace": {
+      "id": 1185603
+    },
+    "chadi riad|crystal palace": {
+      "id": 1064218
+    },
+    "maxence lacroix|crystal palace": {
+      "id": 879674
+    },
+    "chris richards|crystal palace": {
+      "id": 931844
+    },
+    "jaydee canvot|crystal palace": {
+      "id": 1471671
+    },
+    "nathaniel clyne|crystal palace": {
+      "id": 43215
+    },
+    "rio cardines|crystal palace": {
+      "id": 1469007
+    },
+    "caleb kporha|crystal palace": {
+      "id": 1465401
+    },
+    "dean henderson|crystal palace": {
+      "id": 788134
+    },
+    "walter benítez|crystal palace": {
+      "id": 249859
+    },
+    "remi matthews|crystal palace": {
+      "id": 581610
+    },
+    "igor jesus|nottingham forest": {
+      "id": 981619
+    },
+    "chris wood|nottingham forest": {
+      "id": 50480
+    },
+    "lorenzo lucca|nottingham forest": {
+      "id": 962364
+    },
+    "taiwo awoniyi|nottingham forest": {
+      "id": 359664
+    },
+    "lamin sillah|nottingham forest": {
+      "id": 1974360
+    },
+    "elliot anderson|nottingham forest": {
+      "id": 994546
+    },
+    "ibrahim sangaré|nottingham forest": {
+      "id": 843754
+    },
+    "james mcatee|nottingham forest": {
+      "id": 1003334
+    },
+    "callum hudson odoi|nottingham forest": {
+      "id": 867442
+    },
+    "morgan gibbs-white|nottingham forest": {
+      "id": 865912
+    },
+    "dan ndoye|nottingham forest": {
+      "id": 944327
+    },
+    "omari hutchinson|nottingham forest": {
+      "id": 1090963
+    },
+    "nicolás domínguez|nottingham forest": {
+      "id": 871765
+    },
+    "dilane bakwa|nottingham forest": {
+      "id": 963298
+    },
+    "ryan yates|nottingham forest": {
+      "id": 846252
+    },
+    "murillo|nottingham forest": {
+      "id": 1199282
+    },
+    "nikola milenković|nottingham forest": {
+      "id": 836168
+    },
+    "ola aina|nottingham forest": {
+      "id": 800417
+    },
+    "neco williams|nottingham forest": {
+      "id": 927356
+    },
+    "jair|nottingham forest": {
+      "id": 1170722
+    },
+    "nicolò savona|nottingham forest": {
+      "id": 1010220
+    },
+    "morato|nottingham forest": {
+      "id": 985086
+    },
+    "willy boly|nottingham forest": {
+      "id": 139310
+    },
+    "eric da silva moreira|nottingham forest": {
+      "id": 1418646
+    },
+    "luca netz|nottingham forest": {
+      "id": 979144
+    },
+    "zach abbott|nottingham forest": {
+      "id": 1390490
+    },
+    "stefan ortega|nottingham forest": {
+      "id": 125274
+    },
+    "john victor|nottingham forest": {
+      "id": 840103
+    },
+    "matz sels|nottingham forest": {
+      "id": 78152
+    },
+    "angus gunn|nottingham forest": {
+      "id": 227946
+    },
+    "richarlison|tottenham hotspur": {
+      "id": 840217
+    },
+    "randal kolo muani|tottenham hotspur": {
+      "id": 871706
+    },
+    "dominic solanke|tottenham hotspur": {
+      "id": 361420
+    },
+    "mathys tel|tottenham hotspur": {
+      "id": 1048888
+    },
+    "wilson odobert|tottenham hotspur": {
+      "id": 1142679
+    },
+    "dane scarlett|tottenham hotspur": {
+      "id": 998772
+    },
+    "mohammed kudus|tottenham hotspur": {
+      "id": 905163
+    },
+    "xavi simons|tottenham hotspur": {
+      "id": 997183
+    },
+    "pape matar sarr|tottenham hotspur": {
+      "id": 1002711
+    },
+    "yves bissouma|tottenham hotspur": {
+      "id": 844842
+    },
+    "joão palhinha|tottenham hotspur": {
+      "id": 364612
+    },
+    "conor gallagher|tottenham hotspur": {
+      "id": 904970
+    },
+    "james maddison|tottenham hotspur": {
+      "id": 356398
+    },
+    "dejan kulusevski|tottenham hotspur": {
+      "id": 928124
+    },
+    "lucas bergvall|tottenham hotspur": {
+      "id": 1391251
+    },
+    "rodrigo bentancur|tottenham hotspur": {
+      "id": 791190
+    },
+    "archie gray|tottenham hotspur": {
+      "id": 1142335
+    },
+    "cristian romero|tottenham hotspur": {
+      "id": 829932
+    },
+    "radu drăguşin|tottenham hotspur": {
+      "id": 997103
+    },
+    "micky van de ven|tottenham hotspur": {
+      "id": 998247
+    },
+    "pedro porro|tottenham hotspur": {
+      "id": 913654
+    },
+    "destiny udogie|tottenham hotspur": {
+      "id": 983572
+    },
+    "djed spence|tottenham hotspur": {
+      "id": 945798
+    },
+    "kevin danso|tottenham hotspur": {
+      "id": 794953
+    },
+    "souza|tottenham hotspur": {
+      "id": 1482340
+    },
+    "ben davies|tottenham hotspur": {
+      "id": 94758
+    },
+    "ashley phillips|tottenham hotspur": {
+      "id": 1134744
+    },
+    "antonín kinský|tottenham hotspur": {
+      "id": 1031251
+    },
+    "guglielmo vicario|tottenham hotspur": {
+      "id": 553606
+    },
+    "brandon austin|tottenham hotspur": {
+      "id": 859896
+    },
+    "adama traoré|west ham united": {
+      "id": 286165
+    },
+    "valentín castellanos|west ham united": {
+      "id": 877013
+    },
+    "callum wilson|west ham united": {
+      "id": 113956
+    },
+    "pablo felipe|west ham united": {
+      "id": 1101174
+    },
+    "jarrod bowen|west ham united": {
+      "id": 552884
+    },
+    "mateus fernandes|west ham united": {
+      "id": 1142562
+    },
+    "crysencio summerville|west ham united": {
+      "id": 917005
+    },
+    "tomáš souček|west ham united": {
+      "id": 799041
+    },
+    "keiber lamadrid|west ham united": {
+      "id": 1190165
+    },
+    "soungoutou magassa|west ham united": {
+      "id": 1170560
+    },
+    "mohamadou kanté|west ham united": {
+      "id": 1523623
+    },
+    "freddie potts|west ham united": {
+      "id": 1089582
+    },
+    "aaron wan-bissaka|west ham united": {
+      "id": 863653
+    },
+    "el hadji malick diouf|west ham united": {
+      "id": 1471764
+    },
+    "axel disasi|west ham united": {
+      "id": 827243
+    },
+    "konstantinos mavropanos|west ham united": {
+      "id": 829022
+    },
+    "jean-clair todibo|west ham united": {
+      "id": 945217
+    },
+    "kyle walker-peters|west ham united": {
+      "id": 823085
+    },
+    "max kilman|west ham united": {
+      "id": 894474
+    },
+    "oliver scarles|west ham united": {
+      "id": 1150952
+    },
+    "ezra mayers|west ham united": {
+      "id": 1652590
+    },
+    "łukasz fabiański|west ham united": {
+      "id": 15479
+    },
+    "alphonse aréola|west ham united": {
+      "id": 96531
+    },
+    "mads hermansen|west ham united": {
+      "id": 856640
+    },
+    "armando broja|burnley": {
+      "id": 996985
+    },
+    "lyle foster|burnley": {
+      "id": 901907
+    },
+    "marcus edwards|burnley": {
+      "id": 795066
+    },
+    "zeki amdouni|burnley": {
+      "id": 990550
+    },
+    "zian flemming|burnley": {
+      "id": 875137
+    },
+    "loum tchaouna|burnley": {
+      "id": 1004505
+    },
+    "jacob bruun larsen|burnley": {
+      "id": 809276
+    },
+    "michael obafemi|burnley": {
+      "id": 921216
+    },
+    "hannibal mejbri|burnley": {
+      "id": 1009386
+    },
+    "lesley ugochukwu|burnley": {
+      "id": 1048916
+    },
+    "james ward-prowse|burnley": {
+      "id": 161717
+    },
+    "florentino luís|burnley": {
+      "id": 855845
+    },
+    "jaidon anthony|burnley": {
+      "id": 1020680
+    },
+    "mike trésor|burnley": {
+      "id": 826183
+    },
+    "josh cullen|burnley": {
+      "id": 792122
+    },
+    "aaron ramsey|burnley": {
+      "id": 1000142
+    },
+    "ashley barnes|burnley": {
+      "id": 27028
+    },
+    "josh laurent|burnley": {
+      "id": 552036
+    },
+    "kyle walker|burnley": {
+      "id": 44614
+    },
+    "axel tuanzebe|burnley": {
+      "id": 817979
+    },
+    "maxime estève|burnley": {
+      "id": 1117223
+    },
+    "bashir humphreys|burnley": {
+      "id": 996910
+    },
+    "quilindschy hartman|burnley": {
+      "id": 1392044
+    },
+    "lucas pires|burnley": {
+      "id": 1136896
+    },
+    "hjalmar ekdal|burnley": {
+      "id": 875360
+    },
+    "connor roberts|burnley": {
+      "id": 804613
+    },
+    "jordan beyer|burnley": {
+      "id": 927175
+    },
+    "joe worrall|burnley": {
+      "id": 838399
+    },
+    "martin dúbravka|burnley": {
+      "id": 42209
+    },
+    "max weiss|burnley": {
+      "id": 1128801
+    },
+    "václav hladký|burnley": {
+      "id": 151518
+    },
+    "hwang hee-chan|wolverhampton": {
+      "id": 786186
+    },
+    "tolu arokodare|wolverhampton": {
+      "id": 987734
+    },
+    "mateus mané|wolverhampton": {
+      "id": 1899647
+    },
+    "enso gonzález|wolverhampton": {
+      "id": 1402232
+    },
+    "adam armstrong|wolverhampton": {
+      "id": 361352
+    },
+    "nathan fraser|wolverhampton": {
+      "id": 1166679
+    },
+    "ethan sutherland|wolverhampton": {
+      "id": 1391249
+    },
+    "jean-ricner bellegarde|wolverhampton": {
+      "id": 845273
+    },
+    "joão gomes|wolverhampton": {
+      "id": 1015267
+    },
+    "andré|wolverhampton": {
+      "id": 1035996
+    },
+    "angel gomes|wolverhampton": {
+      "id": 867441
+    },
+    "jackson tchatchoua|wolverhampton": {
+      "id": 1096210
+    },
+    "rodrigo gomes|wolverhampton": {
+      "id": 1006073
+    },
+    "hugo bueno|wolverhampton": {
+      "id": 1013928
+    },
+    "tawanda chirewa|wolverhampton": {
+      "id": 1005725
+    },
+    "tommy doyle|wolverhampton": {
+      "id": 932628
+    },
+    "tom edozie|wolverhampton": {
+      "id": 1445189
+    },
+    "pedro lima|wolverhampton": {
+      "id": 1597270
+    },
+    "nasser djiga|wolverhampton": {
+      "id": 1127169
+    },
+    "yerson mosquera|wolverhampton": {
+      "id": 1014835
+    },
+    "ladislav krejčí|wolverhampton": {
+      "id": 856250
+    },
+    "matt doherty|wolverhampton": {
+      "id": 143047
+    },
+    "santiago bueno|wolverhampton": {
+      "id": 846308
+    },
+    "toti gomes|wolverhampton": {
+      "id": 973418
+    },
+    "david møller wolfe|wolverhampton": {
+      "id": 1031283
+    },
+    "ki-jana hoever|wolverhampton": {
+      "id": 954044
+    },
+    "josé sá|wolverhampton": {
+      "id": 252669
+    },
+    "sam johnstone|wolverhampton": {
+      "id": 98427
+    },
+    "daniel bentley|wolverhampton": {
+      "id": 101367
+    },
+    "robert lewandowski|fc barcelona": {
+      "id": 41789
+    },
+    "marcus rashford|fc barcelona": {
+      "id": 814590
+    },
+    "ferran torres|fc barcelona": {
+      "id": 855833
+    },
+    "roony bardghji|fc barcelona": {
+      "id": 1162107
+    },
+    "lamine yamal|fc barcelona": {
+      "id": 1402912
+    },
+    "raphinha|fc barcelona": {
+      "id": 831005
+    },
+    "pedri|fc barcelona": {
+      "id": 992587
+    },
+    "pablo gavi|fc barcelona": {
+      "id": 1103693
+    },
+    "frenkie de jong|fc barcelona": {
+      "id": 795222
+    },
+    "fermín lópez|fc barcelona": {
+      "id": 1153270
+    },
+    "dani olmo|fc barcelona": {
+      "id": 789071
+    },
+    "marc bernal|fc barcelona": {
+      "id": 1526618
+    },
+    "marc casadó|fc barcelona": {
+      "id": 1000483
+    },
+    "tomás marqués|fc barcelona": {
+      "id": 1939137
+    },
+    "pau cubarsí|fc barcelona": {
+      "id": 1402913
+    },
+    "jules koundé|fc barcelona": {
+      "id": 827212
+    },
+    "alejandro balde|fc barcelona": {
+      "id": 997035
+    },
+    "ronald araújo|fc barcelona": {
+      "id": 925097
+    },
+    "joão cancelo|fc barcelona": {
+      "id": 138892
+    },
+    "andreas christensen|fc barcelona": {
+      "id": 186795
+    },
+    "eric garcía|fc barcelona": {
+      "id": 876214
+    },
+    "gerard martín|fc barcelona": {
+      "id": 1094827
+    },
+    "xavi espart|fc barcelona": {
+      "id": 1546073
+    },
+    "joan garcía|fc barcelona": {
+      "id": 930267
+    },
+    "wojciech szczęsny|fc barcelona": {
+      "id": 50490
+    },
+    "diego kochen|fc barcelona": {
+      "id": 1402907
+    },
+    "kylian mbappé|real madrid": {
+      "id": 826643
+    },
+    "vinícius júnior|real madrid": {
+      "id": 868812
+    },
+    "rodrygo|real madrid": {
+      "id": 910536
+    },
+    "franco mastantuono|real madrid": {
+      "id": 1403559
+    },
+    "gonzalo garcía|real madrid": {
+      "id": 1402716
+    },
+    "jude bellingham|real madrid": {
+      "id": 991011
+    },
+    "federico valverde|real madrid": {
+      "id": 831808
+    },
+    "arda güler|real madrid": {
+      "id": 1091116
+    },
+    "brahim díaz|real madrid": {
+      "id": 835485
+    },
+    "eduardo camavinga|real madrid": {
+      "id": 973887
+    },
+    "aurélien tchouaméni|real madrid": {
+      "id": 859025
+    },
+    "dani ceballos|real madrid": {
+      "id": 547838
+    },
+    "thiago pitarch|real madrid": {
+      "id": 2237795
+    },
+    "manuel ángel morán|real madrid": {
+      "id": 1142683
+    },
+    "césar palacios|real madrid": {
+      "id": 1402688
+    },
+    "jorge cestero|real madrid": {
+      "id": 1590121
+    },
+    "trent alexander-arnold|real madrid": {
+      "id": 795064
+    },
+    "antonio rüdiger|real madrid": {
+      "id": 142622
+    },
+    "dean huijsen|real madrid": {
+      "id": 1176744
+    },
+    "éder militão|real madrid": {
+      "id": 822519
+    },
+    "dani carvajal|real madrid": {
+      "id": 138572
+    },
+    "raúl asencio|real madrid": {
+      "id": 1156645
+    },
+    "david alaba|real madrid": {
+      "id": 66492
+    },
+    "álvaro carreras|real madrid": {
+      "id": 1085081
+    },
+    "ferland mendy|real madrid": {
+      "id": 792073
+    },
+    "fran garcía|real madrid": {
+      "id": 851271
+    },
+    "manuel serrano salazar|real madrid": {
+      "id": 1145644
+    },
+    "thibaut courtois|real madrid": {
+      "id": 70988
+    },
+    "andriy lunin|real madrid": {
+      "id": 857574
+    },
+    "fran gonzález|real madrid": {
+      "id": 1493226
+    },
+    "álvaro gonzález|real madrid": {
+      "id": 1542706
+    },
+    "georges mikautadze|villarreal": {
+      "id": 1009372
+    },
+    "nicolas pépé|villarreal": {
+      "id": 593526
+    },
+    "gerard moreno|villarreal": {
+      "id": 146866
+    },
+    "ayoze pérez|villarreal": {
+      "id": 345195
+    },
+    "tani oluwaseyi|villarreal": {
+      "id": 1172477
+    },
+    "alfon gonzález|villarreal": {
+      "id": 1468090
+    },
+    "hugo lópez|villarreal": {
+      "id": 1966890
+    },
+    "thomas partey|villarreal": {
+      "id": 316148
+    },
+    "pape gueye|villarreal": {
+      "id": 879694
+    },
+    "tajon buchanan|villarreal": {
+      "id": 973290
+    },
+    "alberto moleiro|villarreal": {
+      "id": 1012444
+    },
+    "dani parejo|villarreal": {
+      "id": 39182
+    },
+    "alassane diatta|villarreal": {
+      "id": 1893907
+    },
+    "santi comesaña|villarreal": {
+      "id": 843678
+    },
+    "carlos maciá|villarreal": {
+      "id": 2238900
+    },
+    "renato veiga|villarreal": {
+      "id": 1087359
+    },
+    "juan foyth|villarreal": {
+      "id": 873189
+    },
+    "santiago mouriño|villarreal": {
+      "id": 1468046
+    },
+    "willy kambwala|villarreal": {
+      "id": 1136721
+    },
+    "rafa marín|villarreal": {
+      "id": 984623
+    },
+    "sergi cardona|villarreal": {
+      "id": 986245
+    },
+    "alexander freeman|villarreal": {
+      "id": 1184541
+    },
+    "logan costa|villarreal": {
+      "id": 911853
+    },
+    "alfonso pedraza|villarreal": {
+      "id": 797290
+    },
+    "pau navarro|villarreal": {
+      "id": 1525863
+    },
+    "arnau tenas|villarreal": {
+      "id": 908714
+    },
+    "luiz júnior|villarreal": {
+      "id": 1066603
+    },
+    "diego conde|villarreal": {
+      "id": 951008
+    },
+    "julián alvarez|atlético madrid": {
+      "id": 944656
+    },
+    "antoine griezmann|atlético madrid": {
+      "id": 85859
+    },
+    "ademola lookman|atlético madrid": {
+      "id": 824200
+    },
+    "alexander sørloth|atlético madrid": {
+      "id": 309078
+    },
+    "miguel cubo|atlético madrid": {
+      "id": 2238907
+    },
+    "thiago almada|atlético madrid": {
+      "id": 944660
+    },
+    "giuliano simeone|atlético madrid": {
+      "id": 1099352
+    },
+    "nicolás gonzález|atlético madrid": {
+      "id": 901325
+    },
+    "alex baena|atlético madrid": {
+      "id": 910031
+    },
+    "johnny cardoso|atlético madrid": {
+      "id": 990169
+    },
+    "pablo barrios|atlético madrid": {
+      "id": 1142588
+    },
+    "koke|atlético madrid": {
+      "id": 84539
+    },
+    "obed vargas|atlético madrid": {
+      "id": 1119345
+    },
+    "rodrigo mendoza|atlético madrid": {
+      "id": 1391752
+    },
+    "rayane belaid|atlético madrid": {
+      "id": 1179148
+    },
+    "iker luque|atlético madrid": {
+      "id": 1544428
+    },
+    "javi morcillo|atlético madrid": {
+      "id": 1832076
+    },
+    "nahuel molina|atlético madrid": {
+      "id": 831799
+    },
+    "marcos llorente|atlético madrid": {
+      "id": 353138
+    },
+    "clément lenglet|atlético madrid": {
+      "id": 580550
+    },
+    "robin le normand|atlético madrid": {
+      "id": 787751
+    },
+    "josé maría giménez|atlético madrid": {
+      "id": 325355
+    },
+    "dávid hancko|atlético madrid": {
+      "id": 807771
+    },
+    "marc pubill|atlético madrid": {
+      "id": 1094106
+    },
+    "matteo ruggeri|atlético madrid": {
+      "id": 965011
+    },
+    "javier boñar|atlético madrid": {
+      "id": 1142591
+    },
+    "juan musso|atlético madrid": {
+      "id": 263651
+    },
+    "jan oblak|atlético madrid": {
+      "id": 69768
+    },
+    "salvi esquivel|atlético madrid": {
+      "id": 1179149
+    },
+    "cédric bakambu|real betis": {
+      "id": 115665
+    },
+    "cucho hernández|real betis": {
+      "id": 887055
+    },
+    "chimy ávila|real betis": {
+      "id": 789381
+    },
+    "juan gonzález|real betis": {
+      "id": 1153313
+    },
+    "antony|real betis": {
+      "id": 958380
+    },
+    "abdessamad ezzalzouli|real betis": {
+      "id": 1011375
+    },
+    "sofyan amrabat|real betis": {
+      "id": 359272
+    },
+    "isco|real betis": {
+      "id": 103417
+    },
+    "giovani lo celso|real betis": {
+      "id": 798835
+    },
+    "álvaro fidalgo|real betis": {
+      "id": 838629
+    },
+    "nelson deossa|real betis": {
+      "id": 1129401
+    },
+    "rodrigo riquelme|real betis": {
+      "id": 989113
+    },
+    "pablo fornals|real betis": {
+      "id": 816763
+    },
+    "pablo garcía|real betis": {
+      "id": 1893910
+    },
+    "marc roca|real betis": {
+      "id": 847128
+    },
+    "sergi altimira|real betis": {
+      "id": 1137814
+    },
+    "héctor bellerín|real betis": {
+      "id": 188365
+    },
+    "natan|real betis": {
+      "id": 1015287
+    },
+    "junior firpo|real betis": {
+      "id": 914835
+    },
+    "valentín gómez|real betis": {
+      "id": 1186010
+    },
+    "ricardo rodríguez|real betis": {
+      "id": 67769
+    },
+    "marc bartra|real betis": {
+      "id": 99519
+    },
+    "diego llorente|real betis": {
+      "id": 305278
+    },
+    "aitor ruibal|real betis": {
+      "id": 893062
+    },
+    "angel ortiz|real betis": {
+      "id": 1152139
+    },
+    "pablo busto|real betis": {
+      "id": 1464647
+    },
+    "adrián|real betis": {
+      "id": 50539
+    },
+    "pau lópez|real betis": {
+      "id": 548848
+    },
+    "álvaro valles|real betis": {
+      "id": 964983
+    },
+    "iago aspas|celta vigo": {
+      "id": 19356
+    },
+    "borja iglesias|celta vigo": {
+      "id": 785989
+    },
+    "ferran jutglà|celta vigo": {
+      "id": 949962
+    },
+    "jones el-abdellaoui|celta vigo": {
+      "id": 1173575
+    },
+    "pablo durán|celta vigo": {
+      "id": 1398524
+    },
+    "ilaix moriba|celta vigo": {
+      "id": 962890
+    },
+    "williot swedberg|celta vigo": {
+      "id": 1126779
+    },
+    "óscar mingueza|celta vigo": {
+      "id": 859773
+    },
+    "matías vecino|celta vigo": {
+      "id": 158615
+    },
+    "fer lópez|celta vigo": {
+      "id": 1526628
+    },
+    "franco cervi|celta vigo": {
+      "id": 557008
+    },
+    "hugo álvarez|celta vigo": {
+      "id": 1154935
+    },
+    "hugo sotelo|celta vigo": {
+      "id": 1120669
+    },
+    "sergio carreira|celta vigo": {
+      "id": 1002764
+    },
+    "javier rueda|celta vigo": {
+      "id": 1008259
+    },
+    "miguel román|celta vigo": {
+      "id": 1398526
+    },
+    "marcos alonso|celta vigo": {
+      "id": 69408
+    },
+    "joseph aidoo|celta vigo": {
+      "id": 796320
+    },
+    "carl starfelt|celta vigo": {
+      "id": 360718
+    },
+    "javi rodríguez|celta vigo": {
+      "id": 1526627
+    },
+    "mihailo ristić|celta vigo": {
+      "id": 363774
+    },
+    "alvaro núñez|celta vigo": {
+      "id": 1012410
+    },
+    "yoel lago|celta vigo": {
+      "id": 1145100
+    },
+    "carlos domínguez|celta vigo": {
+      "id": 1069703
+    },
+    "manu fernández|celta vigo": {
+      "id": 1630975
+    },
+    "ionuț radu|celta vigo": {
+      "id": 815202
+    },
+    "iván villar|celta vigo": {
+      "id": 848980
+    },
+    "marc vidal|celta vigo": {
+      "id": 905443
+    },
+    "martín satriano|getafe": {
+      "id": 973536
+    },
+    "borja mayoral|getafe": {
+      "id": 604954
+    },
+    "luis vázquez|getafe": {
+      "id": 974713
+    },
+    "veljko birmančević|getafe": {
+      "id": 831510
+    },
+    "adrian liso|getafe": {
+      "id": 1515554
+    },
+    "juanmi|getafe": {
+      "id": 96369
+    },
+    "álex sancris|getafe": {
+      "id": 1398518
+    },
+    "mario martín|getafe": {
+      "id": 1154549
+    },
+    "luis milla|getafe": {
+      "id": 811629
+    },
+    "mauro arambarri|getafe": {
+      "id": 385888
+    },
+    "abu kamara|getafe": {
+      "id": 1087476
+    },
+    "javier muñoz|getafe": {
+      "id": 353154
+    },
+    "adrián riquelme|getafe": {
+      "id": 2439155
+    },
+    "abdel abqar|getafe": {
+      "id": 1101232
+    },
+    "djené|getafe": {
+      "id": 307702
+    },
+    "sebastián boselli|getafe": {
+      "id": 1392092
+    },
+    "zaid romero|getafe": {
+      "id": 1108450
+    },
+    "ismael bekhoucha|getafe": {
+      "id": 1895964
+    },
+    "diego rico|getafe": {
+      "id": 350560
+    },
+    "allan nyom|getafe": {
+      "id": 128637
+    },
+    "domingos duarte|getafe": {
+      "id": 576276
+    },
+    "juan iglesias|getafe": {
+      "id": 949707
+    },
+    "davinchi|getafe": {
+      "id": 1918369
+    },
+    "kiko femenía|getafe": {
+      "id": 53739
+    },
+    "david soria|getafe": {
+      "id": 604258
+    },
+    "jiří letáček|getafe": {
+      "id": 826047
+    },
+    "alemão|rayo vallecano": {
+      "id": 981604
+    },
+    "jorge de frutos|rayo vallecano": {
+      "id": 900003
+    },
+    "carlos martín|rayo vallecano": {
+      "id": 1131581
+    },
+    "sergio camello|rayo vallecano": {
+      "id": 910024
+    },
+    "randy nteka|rayo vallecano": {
+      "id": 932764
+    },
+    "ilias akhomach|rayo vallecano": {
+      "id": 1089108
+    },
+    "pathé ismaël ciss|rayo vallecano": {
+      "id": 913679
+    },
+    "isi palazón|rayo vallecano": {
+      "id": 899982
+    },
+    "álvaro garcía|rayo vallecano": {
+      "id": 345111
+    },
+    "pedro díaz|rayo vallecano": {
+      "id": 900669
+    },
+    "unai lópez|rayo vallecano": {
+      "id": 588566
+    },
+    "óscar trejo|rayo vallecano": {
+      "id": 21949
+    },
+    "óscar valentín|rayo vallecano": {
+      "id": 900008
+    },
+    "fran pérez|rayo vallecano": {
+      "id": 966637
+    },
+    "gerard gumbau|rayo vallecano": {
+      "id": 326471
+    },
+    "diego mendez|rayo vallecano": {
+      "id": 1392573
+    },
+    "andrei rațiu|rayo vallecano": {
+      "id": 965031
+    },
+    "nobel mendy|rayo vallecano": {
+      "id": 1458073
+    },
+    "abdul mumin|rayo vallecano": {
+      "id": 846147
+    },
+    "florian lejeune|rayo vallecano": {
+      "id": 88528
+    },
+    "luiz felipe|rayo vallecano": {
+      "id": 850035
+    },
+    "pacha|rayo vallecano": {
+      "id": 542634
+    },
+    "iván balliu|rayo vallecano": {
+      "id": 152446
+    },
+    "josep chavarría|rayo vallecano": {
+      "id": 1010421
+    },
+    "jozhua vertrouwd|rayo vallecano": {
+      "id": 1120947
+    },
+    "augusto batalla|rayo vallecano": {
+      "id": 358910
+    },
+    "dani cárdenas|rayo vallecano": {
+      "id": 965832
+    },
+    "adrián molina|rayo vallecano": {
+      "id": 1893144
+    },
+    "juanpe|rayo vallecano": {
+      "id": 1165029
+    },
+    "lucas beltrán|valencia": {
+      "id": 962029
+    },
+    "arnaut danjuma|valencia": {
+      "id": 827064
+    },
+    "umar sadiq|valencia": {
+      "id": 754710
+    },
+    "hugo duro|valencia": {
+      "id": 909119
+    },
+    "largie ramazani|valencia": {
+      "id": 909966
+    },
+    "dani raba|valencia": {
+      "id": 873947
+    },
+    "guido rodríguez|valencia": {
+      "id": 609752
+    },
+    "javier guerra|valencia": {
+      "id": 1122610
+    },
+    "pepelu|valencia": {
+      "id": 826948
+    },
+    "diego lópez|valencia": {
+      "id": 998950
+    },
+    "andré almeida|valencia": {
+      "id": 845693
+    },
+    "luis rioja|valencia": {
+      "id": 900433
+    },
+    "filip ugrinić|valencia": {
+      "id": 857482
+    },
+    "baptiste santamaria|valencia": {
+      "id": 344751
+    },
+    "lucas núñez|valencia": {
+      "id": 1939361
+    },
+    "mouctar diakhaby|valencia": {
+      "id": 797306
+    },
+    "josé luis gayà|valencia": {
+      "id": 227922
+    },
+    "renzo saravia|valencia": {
+      "id": 315916
+    },
+    "césar tárrega|valencia": {
+      "id": 996928
+    },
+    "thierry correia|valencia": {
+      "id": 851282
+    },
+    "unai núñez|valencia": {
+      "id": 892521
+    },
+    "eray cömert|valencia": {
+      "id": 814023
+    },
+    "dimitri foulquier|valencia": {
+      "id": 151138
+    },
+    "jesús vázquez|valencia": {
+      "id": 996929
+    },
+    "josé copete|valencia": {
+      "id": 913695
+    },
+    "marcos navarro|valencia": {
+      "id": 1490806
+    },
+    "rubi|valencia": {
+      "id": 2606306
+    },
+    "julen agirrezabala|valencia": {
+      "id": 1014412
+    },
+    "stole dimitrievski|valencia": {
+      "id": 97951
+    },
+    "cristian rivero|valencia": {
+      "id": 914744
+    },
+    "mikel oyarzabal|real sociedad": {
+      "id": 823622
+    },
+    "orri óskarsson|real sociedad": {
+      "id": 1026015
+    },
+    "jon karrikaburu|real sociedad": {
+      "id": 1099175
+    },
+    "takefusa kubo|real sociedad": {
+      "id": 880218
+    },
+    "wesley|real sociedad": {
+      "id": 1211632
+    },
+    "luka sučić|real sociedad": {
+      "id": 949156
+    },
+    "arsen zakharyan|real sociedad": {
+      "id": 1066045
+    },
+    "gonçalo guedes|real sociedad": {
+      "id": 280979
+    },
+    "yangel herrera|real sociedad": {
+      "id": 839585
+    },
+    "carlos soler|real sociedad": {
+      "id": 832427
+    },
+    "ander barrenetxea|real sociedad": {
+      "id": 966862
+    },
+    "brais méndez|real sociedad": {
+      "id": 845385
+    },
+    "beñat turrientes|real sociedad": {
+      "id": 980410
+    },
+    "jon gorrotxategi|real sociedad": {
+      "id": 1216309
+    },
+    "pablo marín|real sociedad": {
+      "id": 1139409
+    },
+    "jon aramburu|real sociedad": {
+      "id": 1116388
+    },
+    "sergio gómez|real sociedad": {
+      "id": 855835
+    },
+    "duje ćaleta-car|real sociedad": {
+      "id": 257091
+    },
+    "álvaro odriozola|real sociedad": {
+      "id": 353250
+    },
+    "jon martin|real sociedad": {
+      "id": 1466116
+    },
+    "igor zubeldia|real sociedad": {
+      "id": 838159
+    },
+    "aihen muñoz|real sociedad": {
+      "id": 966441
+    },
+    "aritz elustondo|real sociedad": {
+      "id": 785468
+    },
+    "álex remiro|real sociedad": {
+      "id": 791773
+    },
+    "unai marrero|real sociedad": {
+      "id": 1094782
+    },
+    "roberto fernández|espanyol": {
+      "id": 1392592
+    },
+    "cyril ngonge|espanyol": {
+      "id": 877037
+    },
+    "kike garcía|espanyol": {
+      "id": 84972
+    },
+    "lluc castell|espanyol": {
+      "id": 1466117
+    },
+    "charles pickel|espanyol": {
+      "id": 758664
+    },
+    "javi puado|espanyol": {
+      "id": 891511
+    },
+    "edu expósito|espanyol": {
+      "id": 877262
+    },
+    "pere milla|espanyol": {
+      "id": 175185
+    },
+    "tyrhys dolan|espanyol": {
+      "id": 1063015
+    },
+    "pol lozano|espanyol": {
+      "id": 826010
+    },
+    "ramón terrats|espanyol": {
+      "id": 1088565
+    },
+    "urko gonzález|espanyol": {
+      "id": 1064009
+    },
+    "jofre carreras|espanyol": {
+      "id": 1019236
+    },
+    "antoniu roca|espanyol": {
+      "id": 1099344
+    },
+    "miguel londoño|espanyol": {
+      "id": 2031771
+    },
+    "omar el hilali|espanyol": {
+      "id": 1064026
+    },
+    "carlos romero|espanyol": {
+      "id": 1396048
+    },
+    "leandro cabrera|espanyol": {
+      "id": 81992
+    },
+    "clemens riedel|espanyol": {
+      "id": 1129360
+    },
+    "fernando calero|espanyol": {
+      "id": 857205
+    },
+    "jose salinas|espanyol": {
+      "id": 1068891
+    },
+    "miguel rubio|espanyol": {
+      "id": 934351
+    },
+    "adama timera|espanyol": {
+      "id": 1870032
+    },
+    "marko dmitrović|espanyol": {
+      "id": 94527
+    },
+    "angel fortuno|espanyol": {
+      "id": 1082734
+    },
+    "pol tristan|espanyol": {
+      "id": 962624
+    },
+    "maroan sannadi|athletic club": {
+      "id": 1520799
+    },
+    "gorka guruzeta|athletic club": {
+      "id": 605672
+    },
+    "urko izeta|athletic club": {
+      "id": 1430667
+    },
+    "nico williams|athletic club": {
+      "id": 1085400
+    },
+    "iñaki williams|athletic club": {
+      "id": 783374
+    },
+    "oihan sancet|athletic club": {
+      "id": 966801
+    },
+    "álex berenguer|athletic club": {
+      "id": 592012
+    },
+    "mikel jauregizar|athletic club": {
+      "id": 1495844
+    },
+    "iñigo ruiz de galarreta|athletic club": {
+      "id": 96365
+    },
+    "robert navarro|athletic club": {
+      "id": 944165
+    },
+    "unai gómez|athletic club": {
+      "id": 1391375
+    },
+    "alejandro rego mora|athletic club": {
+      "id": 2110897
+    },
+    "beñat prados|athletic club": {
+      "id": 1012409
+    },
+    "selton sanchez|athletic club": {
+      "id": 1953923
+    },
+    "mikel vesga|athletic club": {
+      "id": 359742
+    },
+    "nico serrano|athletic club": {
+      "id": 1019318
+    },
+    "elijah gift|athletic club": {
+      "id": 1474267
+    },
+    "aymeric laporte|athletic club": {
+      "id": 149734
+    },
+    "dani vivian|athletic club": {
+      "id": 910978
+    },
+    "adama boiro|athletic club": {
+      "id": 1398511
+    },
+    "yuri berchiche|athletic club": {
+      "id": 84531
+    },
+    "aitor paredes|athletic club": {
+      "id": 959872
+    },
+    "yeray álvarez|athletic club": {
+      "id": 807648
+    },
+    "jesús areso|athletic club": {
+      "id": 910267
+    },
+    "andoni gorosabel|athletic club": {
+      "id": 866810
+    },
+    "íñigo lekue|athletic club": {
+      "id": 801837
+    },
+    "unai eguíluz|athletic club": {
+      "id": 1391374
+    },
+    "unai simón|athletic club": {
+      "id": 797291
+    },
+    "alex padilla|athletic club": {
+      "id": 1155116
+    },
+    "alexis sánchez|sevilla": {
+      "id": 34120
+    },
+    "akor adams|sevilla": {
+      "id": 946381
+    },
+    "chidera ejuke|sevilla": {
+      "id": 875890
+    },
+    "neal maupay|sevilla": {
+      "id": 268903
+    },
+    "isaac romero|sevilla": {
+      "id": 1018190
+    },
+    "rubén vargas|sevilla": {
+      "id": 872919
+    },
+    "djibril sow|sevilla": {
+      "id": 799054
+    },
+    "lucien agoumé|sevilla": {
+      "id": 960006
+    },
+    "nemanja gudelj|sevilla": {
+      "id": 68332
+    },
+    "adnan januzaj|sevilla": {
+      "id": 328145
+    },
+    "batista mendy|sevilla": {
+      "id": 859021
+    },
+    "juanlu sánchez|sevilla": {
+      "id": 1010655
+    },
+    "peque fernández|sevilla": {
+      "id": 997033
+    },
+    "joan jordán|sevilla": {
+      "id": 591750
+    },
+    "oso|sevilla": {
+      "id": 1534422
+    },
+    "manu bueno|sevilla": {
+      "id": 1142094
+    },
+    "nico guillén|sevilla": {
+      "id": 1892023
+    },
+    "miguel sierra|sevilla": {
+      "id": 1518564
+    },
+    "edu altozano|sevilla": {
+      "id": 1489246
+    },
+    "césar azpilicueta|sevilla": {
+      "id": 21555
+    },
+    "gabriel suazo|sevilla": {
+      "id": 818986
+    },
+    "tanguy nianzou|sevilla": {
+      "id": 1003007
+    },
+    "marcão|sevilla": {
+      "id": 840951
+    },
+    "josé ángel carmona|sevilla": {
+      "id": 1015240
+    },
+    "kike salas|sevilla": {
+      "id": 1097719
+    },
+    "federico gattoni|sevilla": {
+      "id": 941464
+    },
+    "fábio cardoso|sevilla": {
+      "id": 252815
+    },
+    "andres castrin|sevilla": {
+      "id": 1428699
+    },
+    "iker muñoz|sevilla": {
+      "id": 1402720
+    },
+    "odysseas vlachodimos|sevilla": {
+      "id": 138149
+    },
+    "ørjan nyland|sevilla": {
+      "id": 22209
+    },
+    "lorenzo luchino|sevilla": {
+      "id": 1482403
+    },
+    "mariano díaz|deportivo alavés": {
+      "id": 175753
+    },
+    "ibrahim diabaté|deportivo alavés": {
+      "id": 1084043
+    },
+    "toni martínez|deportivo alavés": {
+      "id": 831253
+    },
+    "lucas boyé|deportivo alavés": {
+      "id": 814385
+    },
+    "aitor mañas|deportivo alavés": {
+      "id": 1639543
+    },
+    "abderrahman rebbach|deportivo alavés": {
+      "id": 1082968
+    },
+    "antonio blanco|deportivo alavés": {
+      "id": 855832
+    },
+    "carles aleñá|deportivo alavés": {
+      "id": 794937
+    },
+    "denis suárez|deportivo alavés": {
+      "id": 138383
+    },
+    "calebe gonçalves|deportivo alavés": {
+      "id": 1046796
+    },
+    "carlos benavídez|deportivo alavés": {
+      "id": 873717
+    },
+    "pablo ibáñez|deportivo alavés": {
+      "id": 1084381
+    },
+    "jon guridi|deportivo alavés": {
+      "id": 788141
+    },
+    "ander guevara|deportivo alavés": {
+      "id": 891931
+    },
+    "ángel pérez|deportivo alavés": {
+      "id": 1513222
+    },
+    "youssef enriquez|deportivo alavés": {
+      "id": 1403364
+    },
+    "facundo garcés|deportivo alavés": {
+      "id": 879875
+    },
+    "nahuel tenaglia|deportivo alavés": {
+      "id": 896073
+    },
+    "jonny otto|deportivo alavés": {
+      "id": 235648
+    },
+    "jon pacheco|deportivo alavés": {
+      "id": 934383
+    },
+    "ville koski|deportivo alavés": {
+      "id": 999178
+    },
+    "victor parada|deportivo alavés": {
+      "id": 985726
+    },
+    "antonio sivera|deportivo alavés": {
+      "id": 369004
+    },
+    "raúl fernández|deportivo alavés": {
+      "id": 31828
+    },
+    "álvaro rodriguez|elche": {
+      "id": 1154587
+    },
+    "andré silva|elche": {
+      "id": 190159
+    },
+    "rafa mir|elche": {
+      "id": 825754
+    },
+    "adam boayar|elche": {
+      "id": 1518971
+    },
+    "tete morente|elche": {
+      "id": 605374
+    },
+    "roger martí|elche": {
+      "id": 212074
+    },
+    "alex sanchez|elche": {
+      "id": 2216007
+    },
+    "lucas cepeda|elche": {
+      "id": 1126447
+    },
+    "federico redondo|elche": {
+      "id": 1117026
+    },
+    "grady diangana|elche": {
+      "id": 848512
+    },
+    "aleix febas|elche": {
+      "id": 286167
+    },
+    "gonzalo villar|elche": {
+      "id": 914765
+    },
+    "germán valera|elche": {
+      "id": 962710
+    },
+    "martim neto|elche": {
+      "id": 1100646
+    },
+    "marc aguado|elche": {
+      "id": 1014595
+    },
+    "yago santiago|elche": {
+      "id": 1092515
+    },
+    "nordin al lal|elche": {
+      "id": 1916225
+    },
+    "josan|elche": {
+      "id": 808955
+    },
+    "antonio martínez|elche": {
+      "id": 2201697
+    },
+    "hector fort|elche": {
+      "id": 1402908
+    },
+    "david affengruber|elche": {
+      "id": 988672
+    },
+    "buba sangare|elche": {
+      "id": 1542721
+    },
+    "adrià pedrosa|elche": {
+      "id": 928672
+    },
+    "víctor chust|elche": {
+      "id": 855831
+    },
+    "pedro bigas|elche": {
+      "id": 141832
+    },
+    "léo pétrot|elche": {
+      "id": 827504
+    },
+    "john donald|elche": {
+      "id": 1094758
+    },
+    "bema sina|elche": {
+      "id": 1979033
+    },
+    "david delgado|elche": {
+      "id": 2304408
+    },
+    "nico salvador|elche": {
+      "id": 1916209
+    },
+    "iñaki peña|elche": {
+      "id": 794949
+    },
+    "matías dituro|elche": {
+      "id": 556884
+    },
+    "alejandro iturbe|elche": {
+      "id": 1019324
+    },
+    "etta eyong|levante ud": {
+      "id": 1393673
+    },
+    "carlos espí|levante ud": {
+      "id": 1649918
+    },
+    "josé luis morales|levante ud": {
+      "id": 344129
+    },
+    "iván romero|levante ud": {
+      "id": 1014042
+    },
+    "tai abed|levante ud": {
+      "id": 1160250
+    },
+    "paco cortés|levante ud": {
+      "id": 1869106
+    },
+    "kervin arriaga|levante ud": {
+      "id": 1083832
+    },
+    "carlos álvarez|levante ud": {
+      "id": 1010656
+    },
+    "oriol rey|levante ud": {
+      "id": 859769
+    },
+    "iker losada|levante ud": {
+      "id": 992331
+    },
+    "ugo raghouber|levante ud": {
+      "id": 1170694
+    },
+    "kareem tunde|levante ud": {
+      "id": 1649919
+    },
+    "pablo martínez|levante ud": {
+      "id": 927066
+    },
+    "jon ander olasagasti|levante ud": {
+      "id": 1010383
+    },
+    "unai vencedor|levante ud": {
+      "id": 966802
+    },
+    "víctor garcía|levante ud": {
+      "id": 952222
+    },
+    "roger brugué|levante ud": {
+      "id": 909554
+    },
+    "matias moreno|levante ud": {
+      "id": 1496360
+    },
+    "alan matturro|levante ud": {
+      "id": 1177401
+    },
+    "manuel sánchez|levante ud": {
+      "id": 984789
+    },
+    "adrián de la fuente|levante ud": {
+      "id": 997244
+    },
+    "jeremy toljan|levante ud": {
+      "id": 149606
+    },
+    "unai elgezabal|levante ud": {
+      "id": 813574
+    },
+    "diego pampín|levante ud": {
+      "id": 855837
+    },
+    "mathew ryan|levante ud": {
+      "id": 134029
+    },
+    "pablo cuñat|levante ud": {
+      "id": 1085579
+    },
+    "alejandro primo|levante ud": {
+      "id": 1215079
+    },
+    "victor muñoz|osasuna": {
+      "id": 1145642
+    },
+    "ante budimir|osasuna": {
+      "id": 37318
+    },
+    "raúl garcía de haro|osasuna": {
+      "id": 997280
+    },
+    "kike barja|osasuna": {
+      "id": 591132
+    },
+    "iker benito|osasuna": {
+      "id": 1086346
+    },
+    "raúl moro|osasuna": {
+      "id": 980383
+    },
+    "aimar oroz|osasuna": {
+      "id": 985329
+    },
+    "rubén garcía|osasuna": {
+      "id": 260031
+    },
+    "jon moncayola|osasuna": {
+      "id": 976141
+    },
+    "lucas torró|osasuna": {
+      "id": 187313
+    },
+    "moi gómez|osasuna": {
+      "id": 149370
+    },
+    "iker muñoz|osasuna": {
+      "id": 1119586
+    },
+    "enzo boyomo|osasuna": {
+      "id": 1067582
+    },
+    "javi galán|osasuna": {
+      "id": 825133
+    },
+    "alejandro catena|osasuna": {
+      "id": 900792
+    },
+    "valentin rosier|osasuna": {
+      "id": 842419
+    },
+    "abel bretones|osasuna": {
+      "id": 1010165
+    },
+    "jorge herrando|osasuna": {
+      "id": 944225
+    },
+    "juan cruz|osasuna": {
+      "id": 814360
+    },
+    "asier osambela|osasuna": {
+      "id": 1399702
+    },
+    "sergio herrera|osasuna": {
+      "id": 294377
+    },
+    "aitor fernández|osasuna": {
+      "id": 99516
+    }
+  },
+  "stats_v2": {
+    "973431": {},
+    "1390490": {},
+    "1173575": {},
+    "1160250": {},
+    "1101232": {},
+    "610766": {},
+    "1403050": {},
+    "946381": {},
+    "800419": {},
+    "352668": {},
+    "991478": {},
+    "988672": {},
+    "960006": {},
+    "1014595": {},
+    "796320": {},
+    "800417": {},
+    "931278": {},
+    "576384": {},
+    "149663": {},
+    "1089108": {},
+    "66492": {},
+    "1017392": {},
+    "805137": {},
+    "981604": {},
+    "794937": {},
+    "795064": {},
+    "1468090": {},
+    "1168513": {},
+    "944660": {},
+    "845693": {},
+    "69408": {},
+    "1137814": {},
+    "1010656": {},
+    "1154935": {},
+    "944656": {},
+    "807648": {},
+    "990550": {},
+    "847097": {},
+    "359272": {},
+    "362682": {},
+    "994546": {},
+    "1035996": {},
+    "1142683": {},
+    "934351": {},
+    "1518564": {},
+    "1116571": {},
+    "1020680": {},
+    "1099344": {},
+    "958380": {},
+    "385888": {},
+    "1116388": {},
+    "925097": {},
+    "910267": {},
+    "361352": {},
+    "1627560": {},
+    "987734": {},
+    "1083832": {},
+    "1156645": {},
+    "19356": {},
+    "359664": {},
+    "1036269": {},
+    "21555": {},
+    "904827": {},
+    "910031": {},
+    "808590": {},
+    "115665": {},
+    "963298": {},
+    "997035": {},
+    "1199043": {},
+    "958878": {},
+    "152446": {},
+    "1162107": {},
+    "591132": {},
+    "98435": {},
+    "27028": {},
+    "855647": {},
+    "966862": {},
+    "1142588": {},
+    "1395746": {},
+    "99519": {},
+    "861972": {},
+    "1895964": {},
+    "1179148": {},
+    "845273": {},
+    "188365": {},
+    "991011": {},
+    "962029": {},
+    "873717": {},
+    "1086346": {},
+    "791190": {},
+    "84531": {},
+    "592012": {},
+    "793167": {},
+    "1391251": {},
+    "1526618": {},
+    "987489": {},
+    "141832": {},
+    "886930": {},
+    "831510": {},
+    "844842": {}
+  }
+}

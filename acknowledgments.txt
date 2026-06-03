@@ -1,0 +1,24 @@
+Acknowledgments
+
+Data Sources
+- FBref (https://fbref.com) — Dataset delle statistiche dei calciatori 
+  dei top 5 campionati europei, stagione 2025/26.
+- Sofascore API via RapidAPI (https://rapidapi.com/apidojo/api/sofascore) 
+  — Statistiche avanzate dei giocatori (xG, xA, rating, dribbling, ecc.).
+
+Libraries & Tools
+- Streamlit (https://streamlit.io) — Framework per l'interfaccia web
+- Scikit-learn (https://scikit-learn.org) — Algoritmi di machine learning
+- TheFuzz (https://github.com/seatgeek/thefuzz) — Fuzzy string matching
+- Pandas (https://pandas.pydata.org) — Manipolazione e analisi dati
+
+AI Tools
+- Claude (Anthropic) — Assistenza nello sviluppo del codice,
+  debug e ottimizzazione della pipeline dati.
+
+Author Contribution
+L.S. ha progettato e sviluppato l'intera pipeline di raccolta dati
+(clean_dataset.py, enrich_dataset.py, rematch_missing.py).
+L.S. ha implementato il sistema di raccomandazione con cosine similarity
+e pesi per ruolo (recommendation_system.py).
+L.S. ha curato il design dell'interfaccia utente e la documentazione del progetto.
