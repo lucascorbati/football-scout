@@ -1,0 +1,25 @@
+# API Keys
+.env
+
+# Cache files
+data/sofascore_cache.json
+data/sofascore_cache_v3.json
+data/extra_leagues_cache.json
+data/fuzzy_map.json
+
+# File di test e debug
+check_cache.py
+check_cache_v3.py
+check_leagues.py
+debug_match.py
+explore_api.py
+find_seasons.py
+test_stats.py
+
+# File temporanei
+downloaded_files/
+__pycache__/
+*.pyc
+
+# Ambiente conda
+.conda/
