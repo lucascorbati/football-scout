@@ -17,8 +17,8 @@ AI Tools
   debug e ottimizzazione della pipeline dati.
 
 Author Contribution
-L.S. ha progettato e sviluppato l'intera pipeline di raccolta dati
+Luca Scorbati ha progettato e sviluppato l'intera pipeline di raccolta dati
 (clean_dataset.py, enrich_dataset.py, rematch_missing.py).
-L.S. ha implementato il sistema di raccomandazione con cosine similarity
+Luca Scorbati ha implementato il sistema di raccomandazione con cosine similarity
 e pesi per ruolo (recommendation_system.py).
-L.S. ha curato il design dell'interfaccia utente e la documentazione del progetto.
+Luca Scorbati ha curato il design dell'interfaccia utente e la documentazione del progetto.
