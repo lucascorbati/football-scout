@@ -41,7 +41,7 @@ Football Scout è un sistema di raccomandazione per calciatori dei top 5 campion
 
 ### 1. Clona il repository
 
-    git clone https://github.com/TUO-USERNAME/football-scout.git
+    git clone https://github.com/lucascorbati/football-scout.git
     cd football-scout
 
 ### 2. Crea e attiva l'ambiente Conda
